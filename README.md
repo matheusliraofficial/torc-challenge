@@ -15,6 +15,11 @@ Create a dynamic form using a frontend framework and TypeScript. Render it based
 - Employ TypeScript for type definitions and checks.
 - Best of luck with the challenge! Showcase your capabilities and thought process. Reach out if you have queries or need clarifications. I'm here to help.
 
+## How to run the project
+
+- Run `npm install`
+- Run `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
