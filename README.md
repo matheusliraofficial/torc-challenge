@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Torc Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Goal
+
+Create a dynamic form using a frontend framework and TypeScript. Render it based on a provided configuration array and capture user input.
+
+## Requirements
+
+- Use hooks or equivalent, and a state management tool.
+- Configurations specify type (e.g., "text", "number", "select"), label, and options (for select types).
+- Include a submit button. On submission, display the captured data.
+- Ensure a mobile-first, responsive design.
+- Employ TypeScript for type definitions and checks.
+- Best of luck with the challenge! Showcase your capabilities and thought process. Reach out if you have queries or need clarifications. I'm here to help.
 
 ## Available Scripts
 
@@ -23,8 +36,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
